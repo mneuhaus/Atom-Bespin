@@ -1,7 +1,7 @@
 {
   "name": "bespin",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Slightly modified version of http://tmtheme-editor.herokuapp.com/#/theme/Bespin",
   "repository": "https://github.com/mneuhaus/Atom-Bespin.git",
